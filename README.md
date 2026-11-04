@@ -26,13 +26,14 @@ I build and ship full-stack web applications and the pipelines that run them. I 
 
 ## Tech stack
 
-**Languages:** TypeScript · JavaScript · PHP · Python · Go
+**Languages:** TypeScript · JavaScript · PHP · Python · Go · Java · C#
 **Frontend:** React · Next.js · Tailwind CSS
-**Backend & data:** Node.js · PostgreSQL / Supabase · MySQL · n8n
-**DevOps & cloud:** Docker · Kubernetes (k3s) · Azure · GitHub Actions · Azure DevOps · Git
+**Backend & data:** Node.js · .NET · PostgreSQL / Supabase · MySQL
+**Automation:** n8n
+**DevOps & cloud:** Docker · Kubernetes (k3s) · Azure · AWS · GitHub Actions · Azure DevOps · Git
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,react,nextjs,tailwind,nodejs,postgres,supabase,mysql,docker,kubernetes,azure,githubactions,git&perline=17" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,go,java,cs,react,nextjs,tailwind,nodejs,dotnet,postgres,supabase,mysql,docker,kubernetes,azure,aws,githubactions,git&perline=11" alt="Tech stack icons" />
 </p>
 
 ## GitHub stats
